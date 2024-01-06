@@ -1,5 +1,7 @@
 # Blood_Bank_Management_System
 
+# Problem Statement
+
 **Design a simple ‘Blood Bank System’ web application**
 **Requirements**
 **1**. Assume you are designing a real-life system, that real users will use.
@@ -41,7 +43,7 @@ requested for particular blood group from its blood bank.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
+# Solution
 
 Welcome to the Blood Management System web application! This application is designed to facilitate the interaction between hospitals and receivers in managing blood samples. It includes user registration, login functionality, and specific pages for hospitals to add blood information and view requests, as well as a public page displaying available blood samples.
 
