@@ -164,7 +164,7 @@ footer ul{
                 <nav>
                     <h2>Main Navigation</h2>
                     <ul>
-                        <li><a href="home.html">Home</a></li>
+                        <li><a href="index.html">Home</a></li>
                         <li><a href="add_blood_info.html">Add blood Info</a></li>
                         <li><a href="Available_Blood_Sample.php">Available blood Sample</a></li>
                         <li><a href="view_request.php">View Requests</a></li>

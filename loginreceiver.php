@@ -135,7 +135,7 @@
 		<button type="submit">Login</button>
 		<button type="submit" formaction="register.html">Register</button>
 		<div class="container" style="background-color:#f1f1f1">
-		<a href="home.html"><button type="button" class="cancelbtn" >Cancel</button></a>
+		<a href="index.html"><button type="button" class="cancelbtn" >Cancel</button></a>
 
 	  </div>
 	</form>
